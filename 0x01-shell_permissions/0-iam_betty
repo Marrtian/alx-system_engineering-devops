@@ -1,2 +1,2 @@
-Shell Permissions
+#!/bin/bash
 su betty
